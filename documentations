@@ -1,0 +1,84 @@
+Laravel API: https://api.laravel.com/docs/12.x/
+
+Laravel: https://laravel.com/docs/12.x/
+
+# PHP:
+Official Docs: https://www.php.net/manual/en/
+Official Website: https://www.php.net/
+Udemy: 
+Official Reddit: https://www.reddit.com/r/PHP/
+Official LinkedIn: https://www.linkedin.com/company/phpnet/
+Official Fosstodon: https://fosstodon.org/@php
+Official GitHub: https://github.com/php/
+
+# geniusts/hijri-dates (requires nesbot/carbon):
+Official GitHub: https://github.com/GeniusTS/hijri-dates
+
+# nesbot/carbon:
+Official Website: https://carbon.nesbot.com/
+Official Guide: https://carbon.nesbot.com/guide/getting-started/introduction.html
+Official Reference: https://carbon.nesbot.com/develop/reference.html
+Official GitHub: https://github.com/briannesbitt/Carbon
+Currently migrating to: https://github.com/CarbonPHP/carbon
+
+
+
+
+
+Guzzle: https://docs.guzzlephp.org/en/stable/
+
+Laravel Sanctum: https://laravel.com/docs/12.x/sanctum
+
+Laravel Tinker: https://laravel.com/docs/12.x/artisan#tinker
+
+milon/barcode: https://github.com/milon/barcode and https://laravel-news.com/package/milon-barcode
+
+fakerphp/faker: https://fakerphp.org/
+
+MDN: https://developer.mozilla.org/en-US/ (Supported by official HTML website)
+
+
+HTML: https://html.spec.whatwg.org/
+
+CSS: https://www.w3.org/TR/css/#css
+
+Mume AI: https://mume.ai/docs
+
+Nuxt 4: https://nuxt.com/docs/4.x/getting-started/introduction
+
+Vue Router: https://router.vuejs.org/guide/
+
+HTTP Headers Official Docs: https://datatracker.ietf.org/doc/html/rfc9110 aur https://www.rfc-editor.org/info/rfc3677/ (Yeh MDN ko recommend nahi karta) (Yeh official hai)
+
+HTTP Headers Official Docs: https://www.w3.org/TR/CSP3/ (Yeh karta hai) (Yeh bhi official hai)
+
+NCSA (For CGI definition): http://hoohoo.ncsa.uiuc.edu/cgi/ (Can be found using web.archive.org (Wayback Machine))
+
+TypeScript: https://www.typescriptlang.org/docs/
+
+npm: https://docs.npmjs.com/
+
+PCRE (Perl Compatible Regular Expressions): https://www.pcre.org/
+
+Symfony: https://symfony.com/doc/current
+
+Shopify Dev Docs: https://shopify.dev/docs
+
+Ubuntu Desktop: https://help.ubuntu.com/ 
+
+Ubuntu Server: https://ubuntu.com/server/docs/
+
+Cline: https://docs.cline.bot/cline-overview
+
+
+Snippet Launcher Related:
+GNU Bash: https://www.gnu.org/software/bash/manual/
+
+xdotool:
+GitHub: https://github.com/jordansissel/xdotool
+Official Docs: https://www.semicomplete.com/projects/xdotool/
+
+Rofi: https://github.com/davatorium/rofi
+
+
+Filament: https://filamentphp.com/docs
