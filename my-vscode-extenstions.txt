@@ -1,0 +1,19 @@
+abdulwasey@abdulwasey-HP-EliteBook-Folio-1040-G2:~/.vscode/extensions$ ls -a
+.                                           mjdamavandi.codegemma-0.0.1
+..                                          moonshot-ai.kimi-code-0.5.10-linux-x64
+bmewburn.vscode-intelephense-client-1.18.5  nearbuilders.starcoder-0.0.3
+codeium.codeium-1.48.2                      nmhp.compress-to-zip-0.0.1
+dbaeumer.vscode-eslint-3.0.34               ogulcanbayter.copy-folder-structure-fst-1.0.0
+denizhandaklr.minimax-vscode-1.4.3          onecentlin.laravel-blade-1.38.0
+eamodio.gitlens-18.3.0                      partage.nearcoder-0.0.1
+editorconfig.editorconfig-0.18.2            plibither8.remove-comments-1.2.2
+esbenp.prettier-vscode-12.4.0               ritwickdey.liveserver-5.7.10
+extensions.json                             saoudrizwan.claude-dev-4.0.12
+iyulab.copy-text-selected-files-1.3.0       shopify.theme-check-vscode-3.11.9
+keisugiyama.project-structure-0.1.2         shufo.vscode-blade-formatter-0.26.3
+killalau.vscode-liquid-snippets-2.0.3       usernamehw.remove-empty-lines-1.0.1
+kingleo.kimi-vscode-0.0.6                   vue.volar-3.3.11
+laravel.vscode-laravel-2.0.0                xdebug.php-debug-1.40.1
+marsman.fileinfo-mm-1.0.5                   yoshinorin.image-metadata-viewer-2.0.0-linux-x64
+mechatroner.rainbow-csv-3.24.1              your-publisher-name.categorized-content-copier-2.0.0
+abdulwasey@abdulwasey-HP-EliteBook-Folio-1040-G2:~/.vscode/extensions$
