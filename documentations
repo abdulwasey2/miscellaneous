@@ -82,3 +82,6 @@ Rofi: https://github.com/davatorium/rofi
 
 
 Filament: https://filamentphp.com/docs
+
+MySQL 8.4: https://dev.mysql.com/doc/refman/8.4/en/
+Note: MySQL 9.7 is also in LTS, but we mostly use 8.4.
